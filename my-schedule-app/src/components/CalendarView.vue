@@ -68,6 +68,9 @@ export default {
           },
         },
 
+        // 年按钮的文字手动设置
+        buttonText: { multiMonthYear: "年" },
+
         // 事件来源
         events: mockEvents,
 
